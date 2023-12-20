@@ -53,7 +53,7 @@ Have any questions or want to discuss potential projects? Feel free to reach out
 
 ## Download Resume
 
-For a detailed overview of my skills and experience, you can download my resume [here](https://github.com/Ravi-DS-ML/new_portfolio/assets/vendor/Ravi'sResume.pdf).
+For a detailed overview of my skills and experience, you can download my resume [here](https://github.com/Ravi-DS-ML/new_portfolio/blob/main/assets/vendor/Ravi'sResume.pdf).
 
 ## Visit My Portfolio
 
