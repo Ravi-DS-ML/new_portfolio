@@ -59,4 +59,4 @@ Explore more of my work and projects by visiting my [portfolio](https://ravi-por
 
 Thank you for visiting my GitHub repository! If you have any feedback or suggestions, feel free to open an issue or reach out to me.
 
-© 2023 Ravi | All Rights Reserved.
+© 2024 Ravi | All Rights Reserved.
